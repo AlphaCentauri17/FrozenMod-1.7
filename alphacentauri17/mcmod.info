@@ -1,0 +1,16 @@
+[
+{
+  "modid": "FrozenMod",
+  "name": "Frozen Mod",
+  "description": "A mod based off of Disneys Frozen",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Mathew Nassif"],
+  "credits": "Disney",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
